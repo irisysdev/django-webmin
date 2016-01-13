@@ -1,0 +1,1 @@
+django-webmin aims to be a pluggable django application servings python functions, template tags and admin templates to allow interaction with Webmin modules and procedures.
